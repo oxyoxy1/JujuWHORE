@@ -54,6 +54,7 @@ To run this bot, you **must** install the necessary dependencies. Ensure that al
      ```
 
 ***DO NOT FORGET TO CHANGE THE CHANNEL ID's FROM THE MAIN.PY AND FUNCTIONS.PY FILE IN MY EXAMPLES TO WHERE YOU WANT THE BOT TO CARRY OUT THOSE TASKS***
+*Oh, and the !grind command and any subsequent music streaming capability is unavailable on Mac OS*
 ---
 
 ## Need Help?
