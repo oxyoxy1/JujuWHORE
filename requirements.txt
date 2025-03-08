@@ -1,0 +1,5 @@
+discord.py
+requests
+pytubefix
+pynacl
+BeautifulSoup4

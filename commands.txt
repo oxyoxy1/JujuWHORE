@@ -1,0 +1,17 @@
+# **SOME COMMANDS**
+
+**!community** links you the *JJI* discord, trello board, and takes you to the *JJI* subreddit! #community 
+**!duel** lets you wager cursed energy and fight other members for your faction #duel 
+**!enqueue** allows you to queue outside *youtube links* prior to entering the **!play** *command* #grind 
+**!factions** allows you to join either a good, neutral, or evil faction, *planning mechanics around l8tr*
+**!grind** now plays a random anime mix but only in *Jujutsu Tech* voice channel #grind 
+**!grind mix (1-17)** to *choose* between mixes #grind 
+**!innate** ~~no longer~~ has the possibility of rolling a *category* and not an *innate*
+**!market** still only provides a link. integration methods proving more *difficult* than initially imagined
+**!play** self explanatory #grind 
+**!queue** displays current queue #grind 
+**!shop** buy abilities to assist in *duels* #shop 
+**!skip** also self explanatory #grind 
+**!start_trivia** starts a trivia game, join with "**!join**" then start with **!trivia** when everyone joins
+**!trade** to initiate a trade request in #trade 
+**!view_requests** to view active join requests to a faction (*only works if you are a faction owner*) #faction-assignment 

@@ -1,0 +1,52 @@
+Terms of Service for JujuWHORE
+Effective Date: 03/04/25
+
+These Terms of Service (“Terms”) govern your use of the [JujuWHORE] (“Bot”), a Discord bot owned and operated by [oxycaution&co] (“we”, “us”, or “our”). By using the Bot, you agree to comply with these Terms. If you do not agree with any part of these Terms, do not use the Bot.
+
+1. Acceptance of Terms
+By interacting with the Bot, you agree to be bound by these Terms and any additional terms, rules, or policies we may establish in the future. We reserve the right to modify, update, or revise these Terms at any time. Your continued use of the Bot after changes are made constitutes your acceptance of those changes.
+
+2. Bot Usage
+Eligibility: You must be at least 13 years old to use the Bot. If you are under the age of 13, you are not permitted to use the Bot.
+Access: The Bot is available for use on Discord, a third-party platform. Your access to the Bot is contingent upon complying with Discord's Terms of Service and Community Guidelines.
+Usage Restrictions: You agree not to:
+Use the Bot for any unlawful, fraudulent, or malicious activity.
+Use the Bot to harass, intimidate, or harm other users.
+Disrupt or damage the Bot’s functionality or interfere with the operations of any related servers.
+Attempt to reverse-engineer, decompile, or otherwise tamper with the Bot’s code or functionality.
+
+3. Bot Features and Warranties
+The Bot offers features including, but not limited to, dueling, streaming music, and compiling data. These features may evolve over time with new updates or features being added.
+No Warranty: The Bot is provided “as is,” and we do not make any warranties or representations regarding the Bot’s functionality, performance, or availability. We do not guarantee that the Bot will be error-free, uninterrupted, or meet your specific requirements.
+
+4. Data Collection and Privacy
+Information Collected: The Bot may collect certain data related to user interactions, such as user ID, commands issued, messages sent, and other activity within the Bot’s scope. We do not collect sensitive personal information unless explicitly stated.
+Data Use: The data collected will be used for the operation of the Bot, including tracking features, improving performance, and addressing user issues. We will not sell or share your personal data with third parties, except as required by law or necessary for the operation of the Bot.
+Discord Terms of Service: By using the Bot, you agree to Discord’s privacy policies and terms.
+
+5. User Conduct
+You are responsible for your own actions when using the Bot. You agree to:
+Not use the Bot to engage in any conduct that violates Discord’s community guidelines.
+Not engage in spamming, abusive, or disruptive behavior toward other users.
+Not exploit or misuse any vulnerabilities in the Bot.
+
+6. Termination
+We reserve the right to suspend or terminate your access to the Bot at any time if you violate these Terms or engage in harmful or disruptive behavior. If your access is terminated, you agree not to attempt to use the Bot in any unauthorized manner.
+
+7. Limitation of Liability
+To the fullest extent permitted by law, [Your Name or Company] will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from or in connection with your use of the Bot. This includes any damages related to data loss, system downtime, or any other loss incurred due to your use of the Bot.
+
+8. Indemnification
+You agree to indemnify and hold harmless [Your Name or Company], its affiliates, employees, agents, and licensors from any claims, liabilities, or damages arising from your use of the Bot or any violation of these Terms.
+
+9. Changes to Terms
+We may update or modify these Terms at any time, and we will notify users of any material changes. By continuing to use the Bot after such modifications, you agree to the updated Terms.
+
+10. Governing Law
+These Terms will be governed by and construed in accordance with the laws of [Your Jurisdiction]. Any disputes relating to these Terms or the use of the Bot will be subject to the exclusive jurisdiction of the courts in [Your Jurisdiction].
+
+11. Contact Information
+If you have any questions or concerns about these Terms, please contact us at:
+
+Email: oxycaution@gmail.com
+Discord: oxycaution

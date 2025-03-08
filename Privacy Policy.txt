@@ -1,0 +1,52 @@
+Privacy Policy for JujuWHORE
+Effective Date: 03/04/25
+
+This Privacy Policy describes how [oxycaution&co] (“we”, “us”, or “our”) collects, uses, stores, and protects your personal data when you use the [JujuWHORE] Discord bot (the "Bot").
+
+By using the Bot, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with this policy, please do not use the Bot.
+
+1. Information We Collect
+When you use the Bot, we collect the following types of data:
+
+Discord User ID: The Bot collects your unique Discord User ID to identify you within the bot’s systems and allow for proper interactions and personalized services.
+Messages and Commands: We may collect data about the messages you send while interacting with the Bot, including commands, inputs, and responses. This data helps the Bot operate and respond to user requests.
+Server and Channel Information: The Bot may access information about the servers and channels you are a part of in order to provide features such as faction or duel commands.
+Cursed Energy and Abilities: If the Bot has game mechanics such as "cursed energy" or "abilities," we collect and store data related to your in-game progress, abilities, and statistics for use in the game.
+
+2. How We Use Your Data
+The data we collect is used for the following purposes:
+Bot Functionality: The primary purpose of collecting your data is to enable the Bot to function and interact with users within Discord. This includes tracking user progress, handling commands, and storing game-related data (e.g., cursed energy, abilities).
+Personalization: We may use your data to provide personalized experiences within the Bot, such as tracking your progress in a game or adjusting responses based on your interactions.
+Improvement of Services: We may use data to improve the functionality, performance, and features of the Bot.
+Leaderboard and Competitive Features: If your Bot includes a leaderboard or competitive features (e.g., duels, rankings), your user data, including your wins and losses, may be publicly displayed or stored.
+
+3. Data Retention
+Storage Duration: Your data, including your user ID, abilities, cursed energy, and other game data, may be stored for as long as you interact with the Bot or as needed for the operation of the Bot.
+Deletion: You can request that your data be deleted by contacting us directly. If you leave the Bot or are removed from its systems, we will delete your data within a reasonable time frame.
+
+4. Data Security
+We take reasonable steps to protect your personal data. However, please be aware that no method of data transmission or storage is completely secure. While we strive to protect your information, we cannot guarantee its absolute security.
+
+5. Third-Party Services
+Discord: The Bot operates on the Discord platform, and as such, your data may be subject to Discord’s own privacy policy and terms of service. You can review Discord’s privacy policy here: https://discord.com/privacy.
+External Services: If we use third-party services or APIs in connection with the Bot, those services may collect, store, and process your data according to their privacy policies.
+
+6. Children’s Privacy
+The Bot is not intended for users under the age of 13, and we do not knowingly collect personal data from children under 13. If we become aware that we have collected personal data from a child under 13, we will take steps to delete that information as soon as possible.
+
+7. Your Rights
+As a user, you have the following rights regarding your data:
+Access: You have the right to request access to the personal data we hold about you.
+Correction: You have the right to request that any inaccurate or incomplete data be corrected.
+Deletion: You have the right to request that your data be deleted from our systems.
+Opt-Out: If you no longer want to use the Bot, you can stop using the Bot, and we will delete your data within a reasonable time frame.
+To exercise any of these rights, please contact us at oxycaution@gmail.com.
+
+8. Changes to This Privacy Policy
+We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the revised Privacy Policy. We will notify users of significant changes to this policy. By continuing to use the Bot after any changes, you agree to the updated Privacy Policy.
+
+9. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us at:
+
+Email: oxycaution@gmail.com
+Discord: oxycaution
