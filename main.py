@@ -19,13 +19,13 @@ intents = discord.Intents.default()
 intents.message_content = True  # Allow the bot to read message content
 
 FACTION_FILE = 'factions.json'
-FACTION_CHANNEL_ID = 1346229232245670010  # The faction management channel ID
+FACTION_CHANNEL_ID = CHANNEL_ID_FOR_FACTIONS  # The faction management channel ID
 
 # Set up bot with a command prefix
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-VOICE_CHANNEL_ID = 1341579892319322163  # The voice channel ID
-TRADE_CHANNEL_ID = 1341542070552100908  # The trade channel ID
+VOICE_CHANNEL_ID = VOICE_CHANNEL_ID  # The voice channel ID
+TRADE_CHANNEL_ID = TRADE_CHANNEL_ID  # The trade channel ID
 
 # Global variables for music queue
 music_queue = []

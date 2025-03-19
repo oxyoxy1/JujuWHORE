@@ -39,7 +39,7 @@ def update_user_cursed_energy(user_id, energy_to_add, bot):
 
 def level_up_message(user_id, new_level, bot):
     """ Notify the user of their level-up in the level-up channel """
-    level_up_channel_id = 1346594687909232671  # Channel ID for level-up notifications
+    level_up_channel_id = LEVEL_UP_CHANNEL  # Channel ID for level-up notifications
     # Construct the level-up message
     message = f"User <@{user_id}> has reached level {new_level}! Congratulations on accumulating more cursed energy!"
 

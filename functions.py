@@ -8,7 +8,7 @@ import discord
 from discord import Embed
 import asyncio
 
-TRADE_CHANNEL_ID = 1341542070552100908  # The trade channel ID
+TRADE_CHANNEL_ID = TRADE_CHANNEL_ID  # The trade channel ID
 
 # URLs for scraping
 INNATE_URL = 'https://jujutsu-kaisen.fandom.com/wiki/Category:Innate_Techniques?from=U'
@@ -92,8 +92,8 @@ async def initiate_trade(ctx):
     trade_channel = ctx.guild.get_channel(TRADE_CHANNEL_ID)
     if trade_channel:
         # Mention the roles for notifications
-        roles = ["<@&1341565185810239558>", "<@&1341881467583860736>", "<@&1342360702391816203>", 
-                 "<@&1342361077479903313>", "<@&1342361161831809024>"]
+        roles = ["<@&YOUR_ROLE_ID_1>", "<@&YOUR_ROLE_ID_2>", "<@YOUR_ROLE_ID_3>", 
+                 "<@&YOUR_ROLE_ID_4>", "<@&YOUR_ROLE_ID_5>"]
         await trade_channel.send(" ".join(roles), embed=trade_embed)
         await ctx.send("Your trade request has been posted in the trade channel!")
     else:
