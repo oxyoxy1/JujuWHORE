@@ -10,7 +10,7 @@
 
 ## Overview
 
-**JujuWHORE** is a Discord bot designed to assist and further immerse users while gaming in Discord. It provides several features to enhance the gaming experience, including interactive mechanics and entertainment for your server.
+**JujuWHORE** is a Discord bot designed to assist and further immerse users while gaming in Discord. It provides several features to enhance the gaming experience, including interactive mechanics and entertainment for your server. Due to the nature of this bot and the amount of channel/role IDs that you manually need to enter, this program will never be compiled into an EXE. Despite this fact, I've finally decided to make the ultimate companion bot for Jujutsu Infinite on Discord publicly available! Obviously due to the complexity of this bot, most without prior programming experience should avoid this project of mine. However, if you can utilize this in a large server I could imagine you having a decent time. I implement it in my friends server. Try it out!
 
 ---
 
